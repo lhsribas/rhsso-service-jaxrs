@@ -1,0 +1,5 @@
+{
+    "clientId": "mgj-api",
+    "enabled": true,
+    "bearerOnly": true
+}

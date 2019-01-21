@@ -1,0 +1,7 @@
+{
+  "realm": "redhat",
+  "bearer-only": true,
+  "auth-server-url": "http://sso-sso-dev.192.168.64.7.nip.io/auth/",
+  "ssl-required": "external",
+  "resource": "mgj-api"
+}
